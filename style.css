@@ -1,0 +1,53 @@
+.challenger{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 25px;
+    clear: both;
+
+}
+
+.title{
+    font-size: 35px;
+}
+
+body {
+    margin: 40px auto;
+    max-width: 768px;
+    color: #444;
+    text-align: justify;
+}
+
+a {
+    color: e6eeff;
+}
+
+a:hover{
+    color: #000000;
+}
+a:active{
+    color:black
+}
+.thumbs-up{
+    width: 400px;
+    height: 300px;
+    float: down;
+    margin-right: 25px;
+    display: block;
+
+    
+}
+.good-luck{
+}
+.name{
+    margin-top: -9px;
+
+
+}
+.github{
+    float: right;
+    margin-top: -9px
+}
+i{
+
+}
